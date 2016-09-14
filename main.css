@@ -1,0 +1,36 @@
+@font-face { font-family: "New Century Schoolbook LT Std"; src: url('e898d80b080ddf594c6fbbca2084323d.ttf'); }
+@font-face { font-family: "New Century Schoolbook LT Std Bold"; src: url('3846584718a6e4b936d247b0824c48e5.ttf'); }
+
+div#content {
+    width:800px;
+    margin:0 auto;
+    margin-top: 80px;
+    font-family: 'New Century Schoolbook LT Std';
+    color: #282c37;
+}
+
+div#footer{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 10px;
+}
+
+h1 {
+    font-family: "New Century Schoolbook LT Std Bold";
+}
+
+p {
+    font-family: "New Century Schoolbook LT Std";
+}
+
+a {
+    text-decoration: none;
+    color: #2b90d9;
+}
+
+#a{
+    font-family: "New Century Schoolbook LT Std";
+}
+#b{
+    font-family: "New Century Schoolbook LT Std Bold";
+}
