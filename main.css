@@ -10,13 +10,9 @@ div#content {
 }
 
 div#footer{
-    margin-top: 300px;
+    margin-top: 50px;
     text-align: center;
     font-size: 10px;
-}
-
-h1 {
-    font-family: "New Century Schoolbook LT Std Bold";
 }
 
 p {
